@@ -1818,6 +1818,9 @@ input, select, textarea {
 					text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.1);
 					width: 48px;
 				}
+				
+				ul.social li a.fa-arrow-up {
+					background-color: #BF2E25;
 
 				ul.social li a.fa-twitter {
 					background-color: #2DAAE4;
