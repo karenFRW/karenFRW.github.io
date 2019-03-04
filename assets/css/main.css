@@ -1621,6 +1621,22 @@ input, select, textarea {
 	}
 
 /* Image */
+	.myimage {
+		display: inline-block;
+		position: relative;
+		background: white;
+	}
+		.myimage img {
+			display: block;
+			width: 100%;
+		}
+		
+		.myimage.fit {
+			display: block;
+			width: 100%;
+			border-radius: 50%
+			border:5px solid #fff;
+		}
 
 	.image {
 		display: inline-block;
